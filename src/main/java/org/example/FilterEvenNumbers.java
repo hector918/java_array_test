@@ -1,7 +1,5 @@
 package org.example;
 
-import java.util.ArrayList;
-
 public class FilterEvenNumbers {
 
     public static int[] filterEvenNumbersFunc(int[] numArr){
